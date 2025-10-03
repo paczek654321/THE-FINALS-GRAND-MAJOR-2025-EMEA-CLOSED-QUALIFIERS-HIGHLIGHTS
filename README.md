@@ -3,6 +3,9 @@
 <img width="1920" height="1080" alt="p2" src="https://i.redd.it/mybnbcqw9dqf1.png" />
 <img width="1920" height="1080" alt="p2" src="https://github.com/user-attachments/assets/263fd944-958b-4580-abf2-b3f7df8acf50" />
 
+## Timestamps
+For general timestamps see the highlighted comment: https://www.youtube.com/watch?v=4W4DOql8oaM&lc=Ugz_y2WVgTVHYthLbVB4AaABAg
+
 ## All matches of the qualified teams
 ### Que du love
 Pulsar Esports vs. Five Fears vs. Que du love vs. Tweakers: https://www.youtube.com/watch?v=4W4DOql8oaM&t=1482s
