@@ -4,7 +4,7 @@
 <img width="1920" height="1080" alt="p2" src="https://github.com/user-attachments/assets/263fd944-958b-4580-abf2-b3f7df8acf50" />
 
 ## Timestamps
-For general timestamps see the highlighted comment: https://www.youtube.com/watch?v=4W4DOql8oaM&lc=Ugz_y2WVgTVHYthLbVB4AaABAg
+For more timestamps see the highlighted comment: https://www.youtube.com/watch?v=4W4DOql8oaM&lc=Ugz_y2WVgTVHYthLbVB4AaABAg
 
 ## All matches of the qualified teams
 ### Que du love
@@ -12,10 +12,10 @@ Pulsar Esports vs. Five Fears vs. Que du love vs. Tweakers: https://www.youtube.
 
 REMATCH - Pulsar Esports vs. Five Fears vs. Que du love vs. Tweakers: https://www.youtube.com/watch?v=4W4DOql8oaM&t=2897s
 
-Qualification Match BO3: https://www.youtube.com/watch?v=4W4DOql8oaM&t=4174s
+Qualification Match BO3 - Que du love vs. Five Fears: https://www.youtube.com/watch?v=4W4DOql8oaM&t=4174s
 
 ### Beamers
-Beamers vs. Sign Esports vs. Team Secret vs. Emerald Gri: https://www.youtube.com/watch?v=4W4DOql8oaM&t=7028s
+Beamers vs. Sign Esports vs. Team Secret vs. Emerald Grinders: https://www.youtube.com/watch?v=4W4DOql8oaM&t=7028s
 
 Qualification Match BO3 - Sign Esports vs. Beamers: https://www.youtube.com/watch?v=4W4DOql8oaM&t=8312s
 
@@ -30,7 +30,7 @@ Vanguard Gaming vs. Books Esports vs. Citadel Gaming vs Wing It: https://www.you
 Qualification Match BO3 - Books Esports vs. Vanguard Gaming: https://www.youtube.com/watch?v=4W4DOql8oaM&t=16213s
 
 ### Team secret
-Beamers vs. Sign Esports vs. Team Secret vs. Emerald Grinders: https://www.youtube.com/watch?v=4W4DOql8oaM&t=7028s
+Beamers vs. Sign Esports vs. Team Secret vs. Emerald Grinders **(duplicate)**: https://www.youtube.com/watch?v=4W4DOql8oaM&t=7028s
 
 Five Fears vs. Sign Esports vs. Team Secret vs. Tweakers: https://www.youtube.com/watch?v=4W4DOql8oaM&t=26528s
 
@@ -40,7 +40,7 @@ Qualification Match BO3 - Team Secret vs. Emerald Grinders: https://www.youtube.
 
 ### Emerald grinders
 
-Beamers vs. Sign Esports vs. Team Secret vs. Emerald Grinders: https://www.youtube.com/watch?v=4W4DOql8oaM&t=7028s
+Beamers vs. Sign Esports vs. Team Secret vs. Emerald Grinders **(duplicate)**: https://www.youtube.com/watch?v=4W4DOql8oaM&t=7028s
 
 Elimination Match - Emerald Grinders vs. Pulsar Esports: https://www.youtube.com/watch?v=4W4DOql8oaM&t=18656s
 
@@ -50,6 +50,6 @@ Gooblins vs. Books Esports vs. Wing It vs. Emerald Grinders: https://www.youtube
 
 Final Round BO1 - Gooblins vs. Emerald Grinders: https://www.youtube.com/watch?v=4W4DOql8oaM&t=31314s
 
-Qualification Match BO3 - Team Secret vs. Emerald Grinders: https://www.youtube.com/watch?v=4W4DOql8oaM&t=32087s
+Qualification Match BO3 - Team Secret vs. Emerald Grinders **(duplicate)**: https://www.youtube.com/watch?v=4W4DOql8oaM&t=32087s
 
 Qualification match - Books Esports vs. Emerald Grinders: https://www.youtube.com/watch?v=4W4DOql8oaM&t=40025s
